@@ -24,13 +24,13 @@ hr.light {
 }
 
 a {
-    color: #0926e3;
+    color: #3895f2;
     -webkit-transition: all .2s;
     transition: all .2s
 }
 
 a:hover {
-    color: #f05f40
+    color: #3895f2
 }
 
 h1,
@@ -51,7 +51,7 @@ h6 {
 }
 
 .text-faded {
-    color: rgba(255, 255, 255, .7)
+    color: #fff
 }
 
 section {
@@ -190,8 +190,7 @@ img::-moz-selection {
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-color: #212529;
-    /*background-image: url(../img/header.jpg);*/
+    background-image: url(../img/background.jpg);
     background-position: center center;
     background-size: cover
 }
