@@ -1995,13 +1995,13 @@ progress {
 
 .btn-primary {
   color: #fff;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #28044c;
+  border-color: #28044c;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #28044c;
+  border-color: #28044c;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -9134,7 +9134,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #3895f2;
+  background: #28044c;
   align-items: center;
   justify-content: center;
   opacity: 0;
